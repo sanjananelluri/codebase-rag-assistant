@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Ingested repositories
+repos/
+
+# Vector database / embeddings
+vector_store/
+*.faiss
+*.index
+
+# OS files
+.DS_Store
